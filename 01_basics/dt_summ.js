@@ -19,3 +19,6 @@ const outsideTemp = null;
 console.log(typeof outsideTemp);
 // o/p => Obejct
 
+//------------------------------------------
+// Stack and Heap memeory 
+// Stack (Primitive dt) Heaps(Non-Primitive dt)
